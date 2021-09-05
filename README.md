@@ -26,7 +26,7 @@ Project is created with  a
 *  Auto-resize   
 
 ###   Live Demo  
-https://suyash-singh14.github.io/Whoody-VIRUS2021
+https://whoody-virus-2021-qvp5a.ondigitalocean.app/
 
 ###  Github repo
 https://github.com/Suyash-Singh14/Whoody-VIRUS2021
